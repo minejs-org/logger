@@ -1,0 +1,23 @@
+{
+	"type"              : "lib",
+	"template"          : "clean",
+	"pm"                : "bun",
+	"repo": {
+		"org"           : "minejs",
+		"name"          : "Unified logging across your stack with JSON and pretty mode support",
+		"version"       : "0.0.1",
+		"desc"          : "logger",
+		"kw"            : ["minejs", "logger"],
+		"license"       : "MIT",
+		"issues"        : "https://github.com/minejs/logger/issues",
+		"homepage"      : "https://github.com/minejs/logger#readme",
+		"git_url"       : "git+https://github.com/minejs/logger.git"
+	},
+	"author": {
+		"id"            : "maysara-elshewehy",
+		"name"          : "Maysara",
+		"email"         : "maysara.elshewehy@gmail.com",
+		"url"           : "https://github.com/maysara-elshewehy"
+	},
+	"createdAt"         : "2026-01-12T02:13:51.704Z"
+}
