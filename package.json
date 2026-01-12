@@ -1,6 +1,6 @@
 {
 	"name"                             : "@minejs/logger",
-	"version"                          : "0.0.1",
+	"version"                          : "0.0.2",
 	"description"                      : "Unified logging across your stack with JSON and pretty mode support",
 	"keywords"                         : ["minejs", "logger"],
 	"license"                          : "MIT",

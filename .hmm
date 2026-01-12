@@ -5,7 +5,7 @@
 	"repo": {
 		"org"           : "minejs",
 		"name"          : "Unified logging across your stack with JSON and pretty mode support",
-		"version"       : "0.0.1",
+		"version"       : "0.0.2",
 		"desc"          : "logger",
 		"kw"            : ["minejs", "logger"],
 		"license"       : "MIT",
